@@ -4,23 +4,29 @@
 
 - 🔭 I’m currently working on [Awesome Addon for Elementor](https://github.com/hmbashar/Awesome-Addon-for-Elementor)
 
-- 🌱 I’m currently learning **PHP OOP, JavaScript OOP**
+- 🌱 I’m currently learning **PHP OOP, JavaScript OOP and Reactjs**
 
 - 👯 I’m looking to collaborate on [CB Portfolio Work for Elementor](https://github.com/hmbashar/cb-portfolio-work-for-elementor)
 
-- 🤝 I’m looking for help with [CodeStar](https://github.com/hmbashar/codestar-framework-1)
+- 🤝 I’m looking for help with [Awesome Addon for Elementor](https://github.com/hmbashar/Awesome-Addon-for-Elementor)
 
-- 👨‍💻 All of my projects are available at [#](#)
+- 👨‍💻 All of my projects are available at [WordPress Directory](https://profiles.wordpress.org/hmbashar/#content-plugins)
 
-- 📝 I regularly write articles on [#](#)
+- 📝 I regularly make video tutorials [Coding Bank](https://www.youtube.com/codingbank)
 
 - 💬 Ask me about **WordPress**
 
 - 📫 How to reach me **hmbasharttc@gmail.com**
 
-- 📄 Know about my experiences [#](#)
+- 📄 Know about myself [#](#)
 
-- ⚡ Fun fact **#**
+<p><strong>Md Abul Bashar</strong> is a seasoned professional in the world of freelancing, with over a decade of experience as a WordPress developer. Armed with a Bachelor of Arts (BA) degree, Bashar has not only demonstrated his commitment to continuous learning but has also honed his skills in various facets of web development.</p>
+
+<p>His proficiency spans a wide range of programming languages and web technologies, including HTML, CSS, PHP, JavaScript, and React.js. However, what truly sets him apart is his specialization as a Full Stack WordPress Developer. This specialization indicates his deep expertise in utilizing the WordPress platform to its fullest potential, from creating custom themes and plugins to optimizing website performance and security.</p>
+
+<p>Bashar's journey began in South Krisnokathi, Agarbari, and he continues to maintain his permanent address in the Jhalokathi police station area. Currently, he resides in Town Kalikapur, Patuakhali, showcasing his adaptability to different locations while maintaining his professional commitments.</p>
+
+<p>With a decade of experience under his belt, Md Abul Bashar has become a go-to expert in WordPress development. His ability to seamlessly integrate front-end and back-end solutions within the WordPress framework makes him an invaluable asset to clients seeking robust and user-friendly websites. Whether it's building e-commerce platforms, corporate websites, or personal blogs, Bashar's skills and dedication shine through in every project he undertakes.</p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hmbashar&show_icons=true&locale=en&layout=compact" alt="hmbashar" /></p>
 
