@@ -1,59 +1,223 @@
-<h1>Hi 👋, I'm Md Abul Bashar</h1>
-<h3>A Professional WordPress developer from Bangladesh</h3>
+<h1 align="center">Hi, I'm Md Abul Bashar</h1>
 
+<h3 align="center">Full Stack WordPress Developer | WordPress Core Contributor | Plugin Developer from Bangladesh</h3>
 
-- 🔭 I’m currently working on [Awesome Addon for Elementor](https://github.com/hmbashar/Awesome-Addon-for-Elementor)
-
-- 🌱 I’m currently learning **PHP OOP, JavaScript OOP and Reactjs**
-
-- 👯 I’m looking to collaborate on [CB Portfolio Work for Elementor](https://github.com/hmbashar/cb-portfolio-work-for-elementor)
-
-- 🤝 I’m looking for help with [Awesome Addon for Elementor](https://github.com/hmbashar/Awesome-Addon-for-Elementor)
-
-- 👨‍💻 All of my projects are available at [WordPress Directory](https://profiles.wordpress.org/hmbashar/#content-plugins)
-
-- 📝 I regularly make video tutorials [Coding Bank](https://www.youtube.com/codingbank)
-
-- 💬 Ask me about **WordPress**
-
-- 📫 How to reach me **hmbasharttc@gmail.com**
-
-- 📄 Know about myself [#](#)
-
-<p><strong>Md Abul Bashar</strong> is a seasoned professional in the world of freelancing, with over a decade of experience as a WordPress developer. Armed with a Bachelor of Arts (BA) degree, Bashar has not only demonstrated his commitment to continuous learning but has also honed his skills in various facets of web development.</p>
-
-<p>His proficiency spans a wide range of programming languages and web technologies, including HTML, CSS, PHP, JavaScript, and React.js. However, what truly sets him apart is his specialization as a Full Stack WordPress Developer. This specialization indicates his deep expertise in utilizing the WordPress platform to its fullest potential, from creating custom themes and plugins to optimizing website performance and security.</p>
-
-<p>Bashar's journey began in South Krisnokathi, Agarbari, and he continues to maintain his permanent address in the Jhalokathi police station area. Currently, he resides in Town Kalikapur, Patuakhali, showcasing his adaptability to different locations while maintaining his professional commitments.</p>
-
-<p>With a decade of experience under his belt, Md Abul Bashar has become a go-to expert in WordPress development. His ability to seamlessly integrate front-end and back-end solutions within the WordPress framework makes him an invaluable asset to clients seeking robust and user-friendly websites. Whether it's building e-commerce platforms, corporate websites, or personal blogs, Bashar's skills and dedication shine through in every project he undertakes.</p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hmbashar&show_icons=true&locale=en&layout=compact" alt="hmbashar" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hmbashar&show_icons=true&locale=en" alt="hmbashar" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hmbashar&" alt="hmbashar" /></p>
-
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hmbashar&label=Profile%20views&color=0e75b6&style=flat" alt="hmbashar" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hmbashar" alt="hmbashar" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/hmbashar" target="blank"><img src="https://img.shields.io/twitter/follow/hmbashar?logo=twitter&style=for-the-badge" alt="hmbashar" /></a> </p>
-
-
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://codepen.io/hmbashar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="hmbashar" height="30" width="40" /></a>
-<a href="https://twitter.com/hmbashar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hmbashar" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/shaplahost" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shaplahost" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/3842947" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="3842947" height="30" width="40" /></a>
-<a href="https://fb.com/hmbashar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="hmbashar" height="30" width="40" /></a>
-<a href="https://instagram.com/developerbashar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="developerbashar" height="30" width="40" /></a>
-<a href="https://www.behance.net/linuxhostlab" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="linuxhostlab" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/codingbank" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="codingbank" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://profiles.wordpress.org/hmbashar/">
+    <img src="https://img.shields.io/badge/WordPress.org-hmbashar-21759B?style=flat-square&logo=wordpress&logoColor=white" alt="WordPress.org Profile" />
+  </a>
+  <a href="https://hmbashar.com/">
+    <img src="https://img.shields.io/badge/Website-hmbashar.com-333333?style=flat-square" alt="Website" />
+  </a>
+  <a href="https://github.com/hmbashar">
+    <img src="https://img.shields.io/badge/GitHub-hmbashar-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://www.youtube.com/c/codingbank">
+    <img src="https://img.shields.io/badge/YouTube-Coding%20Bank-FF0000?style=flat-square&logo=youtube&logoColor=white" alt="Coding Bank YouTube" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://www.sketch.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" alt="sketch" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=hmbashar&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
+</p>
+
+---
+
+## About Me
+
+I am **Md Abul Bashar**, a professional **Full Stack WordPress Developer** from Bangladesh with more than **10 years of experience** in WordPress theme development, plugin development, Gutenberg/block development, Elementor widgets, WooCommerce solutions, and custom WordPress projects.
+
+Currently, I work as **CTO at Nexiby LLC**, where I focus on building WordPress products, client solutions, and open-source tools.
+
+I have been involved with WordPress since 2010 and have been working professionally with WordPress since 2014. I enjoy coding, open-source contribution, teaching, mentoring, and helping new contributors get started with the WordPress ecosystem.
+
+---
+
+## Current Work
+
+- Currently working on WordPress products, custom plugins, Gutenberg blocks, and client-focused WordPress solutions.
+- Building and maintaining open-source WordPress plugins.
+- Contributing to WordPress Core, Testing, Plugins, Translation, Photos, and other Make WordPress teams.
+- Creating WordPress tutorials through Coding Bank.
+- Helping developers learn WordPress theme and plugin development.
+
+---
+
+## What I Do
+
+- WordPress theme development
+- WordPress plugin development
+- Custom Elementor widgets and addons
+- Gutenberg block development
+- WooCommerce customization and extensions
+- Figma/PSD to WordPress conversion
+- WordPress Core contribution
+- WordPress testing and debugging
+- Bengali translation contribution
+- WordPress training, mentoring, and tutorials
+
+---
+
+## Currently Focused On
+
+- WordPress Core contribution
+- WordPress testing workflow
+- Plugin development best practices
+- Gutenberg and block-based development
+- Modern JavaScript and React for WordPress
+- Building useful open-source WordPress tools
+- Helping new contributors understand WordPress contribution
+
+---
+
+## WordPress Contribution
+
+I actively contribute to the WordPress project and have contribution experience across several WordPress teams.
+
+### Contribution Areas
+
+- Core
+- Plugins
+- Test
+- Accessibility
+- Documentation
+- Photos
+- Polyglots
+- Support
+- CLI
+- Hosting
+- Playground
+- Patterns
+
+### WordPress.org Profile
+
+[profiles.wordpress.org/hmbashar](https://profiles.wordpress.org/hmbashar/)
+
+---
+
+## My WordPress Plugins
+
+You can find my WordPress.org plugins here:
+
+[WordPress Plugin Directory](https://profiles.wordpress.org/hmbashar/#content-plugins)
+
+Some of my plugin work includes:
+
+- Accord Blocks
+- Awesome Elements For Elementor
+- CB Portfolio Work For Elementor
+- Better Sitemap for Elementor
+- Order Tracker for WooCommerce
+- EDU Results Publishing
+- Smart Contact Card
+- Trustify Blocks
+- Talentora
+
+---
+
+## WordCamp and Contributor Day
+
+I enjoy joining WordPress community events and Contributor Days.
+
+- Attended WordCamp Sylhet 2024 Contributor Day physically.
+- Participated remotely in multiple Contributor Days connected with European and Asian WordCamps.
+- Interested in helping new contributors understand Core, Plugin Development, Testing, and WordPress contribution workflows.
+
+---
+
+## Tutorials and Learning
+
+I regularly create and share WordPress-related tutorials through **Coding Bank**.
+
+[YouTube: Coding Bank](https://www.youtube.com/codingbank)
+
+---
+
+## Ask Me About
+
+- WordPress
+- Plugin development
+- Theme development
+- Elementor widgets
+- Gutenberg blocks
+- WooCommerce customization
+- WordPress.org contribution
+- WordPress testing and debugging
+- WordPress performance and best practices
+
+---
+
+## Tech Stack
+
+### WordPress and CMS
+
+<p align="left">
+  <img src="https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white" alt="WordPress" />
+  <img src="https://img.shields.io/badge/WooCommerce-96588A?style=flat-square&logo=woocommerce&logoColor=white" alt="WooCommerce" />
+  <img src="https://img.shields.io/badge/Elementor-92003B?style=flat-square&logo=elementor&logoColor=white" alt="Elementor" />
+</p>
+
+### Programming and Frontend
+
+<p align="left">
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000000" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=white" alt="Sass" />
+</p>
+
+### CSS Frameworks and UI
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+  <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
+</p>
+
+### Database and Development Tools
+
+<p align="left">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Composer-885630?style=flat-square&logo=composer&logoColor=white" alt="Composer" />
+  <img src="https://img.shields.io/badge/npm-CB3837?style=flat-square&logo=npm&logoColor=white" alt="npm" />
+</p>
+
+### Design and Workflow
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" alt="Figma" />
+  <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white" alt="Adobe Photoshop" />
+</p>
+
+
+---
+
+## Connect With Me
+
+- Website: [hmbashar.com](https://hmbashar.com/)
+- WordPress.org: [profiles.wordpress.org/hmbashar](https://profiles.wordpress.org/hmbashar/)
+- GitHub: [github.com/hmbashar](https://github.com/hmbashar)
+- LinkedIn: [linkedin.com/in/shaplahost](https://linkedin.com/in/shaplahost)
+- Stack Overflow: [stackoverflow.com/users/3842947](https://stackoverflow.com/users/3842947)
+- YouTube: [Coding Bank](https://www.youtube.com/c/codingbank)
+- Facebook: [facebook.com/hmbashar](https://fb.com/hmbashar)
+- Instagram: [instagram.com/developerbashar](https://instagram.com/developerbashar)
+- Behance: [behance.net/linuxhostlab](https://www.behance.net/linuxhostlab)
+- Email: **hmbasharttc@gmail.com**
+
+---
+
+## Support My Open Source Work
+
+If my WordPress plugins, tutorials, or open-source contributions help you, you can support my work here:
+
+[Sponsor Md Abul Bashar](https://hmbashar.com/sponsoring)
+
+---
+
+<p align="center">
+  Thanks for visiting my profile.
+</p>
