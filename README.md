@@ -27,7 +27,7 @@
 
 I am **Md Abul Bashar**, a professional **Full Stack WordPress Developer** from Bangladesh with more than **10 years of experience** in WordPress theme development, plugin development, Gutenberg/block development, Elementor widgets, WooCommerce solutions, and custom WordPress projects.
 
-Currently, I work as **CTO at Nexiby LLC**, where I focus on building WordPress products, client solutions, and open-source tools.
+Currently, I work as **CTO at Nexiby LLC**, where I focus on building WordPress products, client solutions, and open-source tools. I am also part of [**Linux Host Lab**](https://www.linuxhostlab.com).
 
 I have been involved with WordPress since 2010 and have been working professionally with WordPress since 2014. I enjoy coding, open-source contribution, teaching, mentoring, and helping new contributors get started with the WordPress ecosystem.
 
