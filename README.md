@@ -103,15 +103,14 @@ You can find my WordPress.org plugins here:
 
 Some of my plugin work includes:
 
-- Accord Blocks
-- Awesome Elements For Elementor
-- CB Portfolio Work For Elementor
-- Better Sitemap for Elementor
-- Order Tracker for WooCommerce
-- EDU Results Publishing
-- Smart Contact Card
-- Trustify Blocks
-- Talentora
+- [Accord Blocks](https://wordpress.org/plugins/accord-blocks/)
+- [Awesome Elements For Elementor](https://wordpress.org/plugins/awesome-elements-for-elementor/)
+- [CB Portfolio Work For Elementor](https://wordpress.org/plugins/cb-portfolio-work/)
+- [Better Sitemap for Elementor](https://wordpress.org/plugins/better-sitemap-for-elementor/)
+- [EDU Results Publishing](https://wordpress.org/plugins/edu-results-publishing/)
+- [Smart Contact Card](https://wordpress.org/plugins/smart-contact-card/)
+- [Trustify Blocks](https://wordpress.org/plugins/trustify-blocks/)
+- [Talentora](https://wordpress.org/plugins/talentora/)
 
 ---
 
